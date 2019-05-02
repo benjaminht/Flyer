@@ -1,9 +1,10 @@
-LateX-Template für Netz39 e.V. Flyer und Poster
+LateX-Template fÃ¼r Netz39 e.V. Flyer und Poster
 ===============================================
 
-Für korrekte Darstellung der Schriftarten mit xelatex kompilieren!
+FÃ¼r korrekte Darstellung der Schriftarten mit **xelatex** kompilieren!
 
 Benutzte Schriftarten:
+
 **OpenSans**
 published under Apache License Version 2.0, for more details see \ressources\fonts\open-sans\Apache License.txt or https://www.apache.org/licenses/LICENSE-2.0
 **OpenSansEmoji**
